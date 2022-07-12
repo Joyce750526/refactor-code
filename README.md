@@ -1,40 +1,34 @@
-# Module 1 Challenge
-# 01 HTML, CSS, and Git: Code Refactor
+# Module 1 Challenge: HTML, CSS Code Refactor
 
+## Purpose: I want a codebase that follows accessibility standards so that Horiseon Marketing Agency Website is optimized for search engines
+
+```
 Changed title name to Horiseon Marketing Agency
+
 
 ## Refactor in index.HTML Odd-numbered modules
 Apply semantic HTML elements to this website.
-* Removed <div class="header"> to <header></header>
-* Changed <div></div> to <nav></nav> for navagation links
+* Removed div class= <strong>"header"</strong> to <strong>"header"</strong>
+* Changed <strong>"div"</strong> to <strong>"nav"</strong> for navagation links
 * 
 
 ## Mock-Up Marketing Agency Company
 
 
 
-## User Story
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
-
+! Deployed Image- see link (./images/horiseon-screenshot.png)
+(./Images/horiseon-screenshot.png)
+![The navigation links are aligned to the right, and the slideshow buttons are center aligned.](./Images/01-product-page.png)
 
 
 
 **Refactoring** existing code (improving it without changing what it does) to meet a certain set of standards or to implement a new technology is a common task for front-end and junior developers. For this particular Challenge, a marketing agency has hired you to refactor an existing site to make it more accessible. 
 
-
-
-Are you ready to begin? Here are this week's Challenge requirements.
-
-## User Story
-
 ```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
+
+
+
+
 
 ## Acceptance Criteria
 
