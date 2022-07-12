@@ -15,10 +15,8 @@ Apply semantic HTML elements to this website.
 ## Mock-Up Marketing Agency Company
 
 
+## Deployed Image- see link (./images/horiseon-screenshot.png)
 
-! Deployed Image- see link (./images/horiseon-screenshot.png)
-(./Images/horiseon-screenshot.png)
-![The navigation links are aligned to the right, and the slideshow buttons are center aligned.](./Images/01-product-page.png)
 
 
 
