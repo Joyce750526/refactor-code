@@ -22,7 +22,7 @@
 
 
 ## Deployed Image: 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/Images/horiseon-screenshot.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/horiseon-screenshot.png)
 
 
 
